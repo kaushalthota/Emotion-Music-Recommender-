@@ -107,7 +107,6 @@ emotion-music-recommender/
 - Add live audio previews
 - In-app Spotify authentication (without browser)
 - Plot emotion history with charts
-- Improve emotion prediction model (train your own)
 
 ---
 
@@ -121,4 +120,4 @@ emotion-music-recommender/
 
 ## 📬 Contact
 
-Made with love by [Your Name](https://github.com/your-username)
+Made with love by kaushalthota
