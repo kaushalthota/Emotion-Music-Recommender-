@@ -23,7 +23,8 @@ This Python project uses your **facial emotion** to recommend music via the **Sp
 ### 🎭 Emotion Detection (Webcam Feed)
 _Automatically detects your emotion using a pre-trained CNN model._
 
-![Webcam Emotion Detection](assets/emotion-detection.png)
+
+![Emotion Capture](https://github.com/user-attachments/assets/8af8647d-3c76-4197-bf0b-2b83c2b8aef6)
 
 ### 🎧 Song or Playlist Recommendation
 _See album art and track name. Choose playlist mode or quick-play mode._
