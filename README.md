@@ -29,7 +29,8 @@ _See album art and track name. Choose playlist mode or quick-play mode._
 ### 🎶 Playlist Preview with Accept/Reject
 _Preview songs and decide which to add to your generated playlist._
 
-![Playlist Preview UI](assets/playlist-preview.gif)
+![image](https://github.com/user-attachments/assets/5bbf49a0-90a6-49e2-b584-02389adfbf38)
+
 
 ### 📊 Emotion History Viewer
 _View your past detected moods and timestamps._
