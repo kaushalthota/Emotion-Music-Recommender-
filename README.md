@@ -35,7 +35,8 @@ _Preview songs and decide which to add to your generated playlist._
 ### 📊 Emotion History Viewer
 _View your past detected moods and timestamps._
 
-![History Viewer](assets/history-viewer.png)
+![History](https://github.com/user-attachments/assets/7ac5c66e-db31-49a0-84a2-5292e1935989)
+
 
 ---
 
